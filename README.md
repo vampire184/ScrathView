@@ -6,6 +6,9 @@
 
 
 截图如下：
+
+
+
 ![效果图](https://github.com/vampire184/ScrathView/blob/master/device-2020-06-06-215653.png)
 
 ![刮奖效果](https://github.com/vampire184/ScrathView/blob/master/device-2020-06-06-215751.png)
