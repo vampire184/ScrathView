@@ -24,7 +24,7 @@
             app:layout_constraintLeft_toLeftOf="@+id/award_bg"
             app:layout_constraintRight_toRightOf="@+id/award_bg"
             app:layout_constraintTop_toTopOf="@+id/award_bg"
-            android:layout_marginTop="38dp"/>
+            android:layout_marginTop="38.5dp"/>
 
     <Button
             android:id="@+id/reset_btn"
